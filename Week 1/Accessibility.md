@@ -55,5 +55,7 @@ In order to make the structure more accessible to user agents that support ARIA 
 
 ## Useful Links
 [Google accessibility course](https://webaccessibility.withgoogle.com/course) 
+
 [MDN article](https://developer.mozilla.org/en-US/docs/Web/Accessibility) 
+
 [Useful Medium Article](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)
