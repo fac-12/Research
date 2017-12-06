@@ -15,3 +15,10 @@ Files from weekly research
 * [Deploying](Week-4/Deploying.md)
 * [Engineering](Week-4/Engineering.md)
 * [Packaging](Week-4/Packaging.md)
+## Week 5
+* [Buffers and Streams](Week-5/BuffersAndStreams.md)
+* [Continuous Integration](Week-5/Continuous-Integration.md)
+## Week 6
+* [Database setup and maintenance](Week-6/Database-setup-and-maintenance.md)
+## Week 7
+* [Attacks](Week-7/Attacks.md)
